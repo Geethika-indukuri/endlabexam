@@ -1,0 +1,11 @@
+package com.klef.jfsd.exam;
+
+public class Comment {
+    private Integer postId;
+    private Integer id;
+    private String name;
+    private String email;
+    private String body;
+
+    // Getters and Setters
+}
